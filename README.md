@@ -18,11 +18,3 @@ Mini project sederhana berbasis Java untuk memenuhi tugas Praktikum **Pemrograma
 Project ini terdiri dari 2 file utama kode sumber Java:
 1. **`Produk.java`** — Class blueprint objek yang merepresentasikan data sebuah produk (Kode, Nama, dan Stok).
 2. **`MainInventaris.java`** — Class utama tempat program dieksekusi, berisi inisialisasi data, iterasi, manipulasi stok, dan penghapusan data.
-
----
-
-## Cara Menjalankan Program
-
-1. **Clone repository ini atau unduh filenya:**
-   ```bash
-   https://github.com/AdelfioAqila22/Praktikum3_PBO_Adelfio.git
