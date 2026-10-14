@@ -25,4 +25,4 @@ Project ini terdiri dari 2 file utama kode sumber Java:
 
 1. **Clone repository ini atau unduh filenya:**
    ```bash
-   git clone https://github.com/AdelfioAqila22/Praktikum3_PBO_Adelfio.git
+   https://github.com/AdelfioAqila22/Praktikum3_PBO_Adelfio.git
